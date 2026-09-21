@@ -5,7 +5,6 @@
    ## Quick Start
    - **Notebook**: `titanic_analysis.ipynb` — full analysis and model comparison
    - **Documentation**: `PROJECT_DOCUMENTATION.md` — detailed explanation of concepts, methodology, results
-   - **Data**: `/data/` folder contains train, test, and submission files
 
    ## Results
    - Logistic Regression: 81% validation accuracy
